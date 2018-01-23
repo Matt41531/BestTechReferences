@@ -231,4 +231,10 @@ This reference details how to export data to an Excel spreadsheet using C#.
 http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
+
+=================Suggestion From Matthew Rife=================================
+This first reference is for the basics of Java since this course will require them.
+Reference 1: www.learnjavaonline.org
+This is a learning plan complete with instructions and sample projects filled with references of their own made by Java. I find this very useful for a quick refresher or even for a beginner to quickly learn how to write simple programs in Java. I learn best by doing things hands on so this is the best method for me. 
+
 ===================================================================
